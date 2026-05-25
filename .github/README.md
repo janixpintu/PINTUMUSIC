@@ -4,7 +4,7 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,30:302b63,60:7c3aed,85:a855f7,100:ec4899&height=260&section=header&text=🎵%20VAMPIRE%20MUSIC&fontSize=62&fontColor=ffffff&animation=twinkling&fontAlignY=45&stroke=ffffff&strokeWidth=1" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,30:302b63,60:7c3aed,85:a855f7,100:ec4899&height=260&section=header&text=🎵%20PINTU%20MUSIC&fontSize=62&fontColor=ffffff&animation=twinkling&fontAlignY=45&stroke=ffffff&strokeWidth=1" width="100%"/>
 
 </div>
 
